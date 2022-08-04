@@ -19,7 +19,7 @@
   "autoload": {
     "psr-4": {
       "ConsoleTVs\\Charts\\": "src/",
-      "Chartisan\\PHP\\": "src/chartisan"
+      "Chartisan\\PHP\\": "src/chartisan/"
     }
   },
   "extra": {
